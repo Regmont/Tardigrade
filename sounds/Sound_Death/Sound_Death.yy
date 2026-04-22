@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Sound_Death",
+  "audioGroupId":{
+    "name":"audiogroup1",
+    "path":"audiogroups/audiogroup1",
+  },
+  "bitDepth":1,
+  "bitRate":512,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.970612,
+  "name":"Sound_Death",
+  "parent":{
+    "name":"Звуки",
+    "path":"folders/Звуки.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Sound_Death.mp3",
+  "type":2,
+  "volume":1.0,
+}

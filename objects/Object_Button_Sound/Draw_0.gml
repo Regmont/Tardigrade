@@ -1,0 +1,1 @@
+draw_sprite(Sprite_Button_Sound, index, x, y);

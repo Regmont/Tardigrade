@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Sound_Selection",
+  "audioGroupId":{
+    "name":"audiogroup1",
+    "path":"audiogroups/audiogroup1",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.130612,
+  "name":"Sound_Selection",
+  "parent":{
+    "name":"Звуки",
+    "path":"folders/Звуки.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Sound_Selection.mp3",
+  "type":0,
+  "volume":1.0,
+}

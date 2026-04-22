@@ -1,0 +1,1 @@
+audio_play_sound(Sound_Death, 0, false, global.sounds);

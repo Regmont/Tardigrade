@@ -1,0 +1,1 @@
+audio_play_sound(Sound_Music, 1, false, global.music);
